@@ -347,11 +347,11 @@
 
   <article>
     <div class="post">
-  <article><div class="thin-divider"></div>
-
-    <p class="members-openings-note">
+  <article><p class="members-openings-note">
       Interested in joining NEST Lab? <a href="/prospective/">See Openings</a>
     </p>
+
+    <hr class="page-divider">
 
     <!-- ===================== Professor ===================== --><!-- ===================== Students (split by category) ===================== --></article>
 </div>
