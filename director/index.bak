@@ -28,6 +28,26 @@
 
 
 
+  <!-- OpenGraph -->
+  <meta property="og:site_name" content="NEST Lab">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="NEST Lab | Team">
+  <meta property="og:url" content="https://nestlab-hyu.github.io/director/">
+  <meta property="og:description" content="members of the lab or group">
+  
+    <meta property="og:image" content="https://nestlab.hanyang.ac.kr/assets/img/logo.svg">
+  
+  <meta property="og:locale" content="en">
+
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Team">
+  <meta name="twitter:description" content="members of the lab or group">
+  
+    <meta name="twitter:image" content="https://nestlab.hanyang.ac.kr/assets/img/logo.svg">
+  
+  
+
 
 
 
