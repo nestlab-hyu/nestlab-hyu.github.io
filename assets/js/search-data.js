@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-news",
-          title: "News",
+        },{id: "nav-openings",
+          title: "Openings",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/";
+            window.location.href = "/prospective/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -392,6 +392,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-welcome-to-nest-lab-at-hanyang-university-erica",
           title: 'Welcome to NEST Lab at Hanyang University ERICA!',
+          description: "",
+          section: "News",},{id: "news-we-are-looking-for-motivated-students-please-see-the-openings-page-for-details",
+          title: 'We are looking for motivated students. Please see the Openings page for details....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
