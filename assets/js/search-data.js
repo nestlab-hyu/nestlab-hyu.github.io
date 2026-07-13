@@ -393,6 +393,9 @@ ninja.data = [{
             },},{id: "news-welcome-to-nest-lab-at-hanyang-university-erica",
           title: 'Welcome to NEST Lab at Hanyang University ERICA!',
           description: "",
+          section: "News",},{id: "news-we-are-looking-for-motivated-students-please-see-the-openings-page-for-details",
+          title: 'We are looking for motivated students. Please see the Openings page for details....',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -438,6 +441,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-cloud-security",
+          title: 'Cloud Security',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/cloud-security/";
+            },},{id: "teachings-internet-infrastructure-security",
+          title: 'Internet Infrastructure Security',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/internet-infra-security/";
             },},{id: "teachings-introduction-to-computer-systems",
           title: 'Introduction to Computer Systems',
           description: "",
