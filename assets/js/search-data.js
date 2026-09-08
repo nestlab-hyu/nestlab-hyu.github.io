@@ -458,8 +458,8 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cloud-security/";
-            },},{id: "teachings-internet-infra-security",
-          title: 'Internet Infra Security',
+            },},{id: "teachings-internet-infrastructure-security",
+          title: 'Internet Infrastructure Security',
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/internet-infra-security/";
