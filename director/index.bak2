@@ -377,7 +377,7 @@
 
     <!-- ===================== Professor ===================== --><div class="team-section-title">Professor</div>
 
-      <div class="team-card prof-card" style="margin-bottom: 60px;"><img class="avatar circle" src="/assets/img/members/hmlee_pic.jpg" alt="Hyeonmin Lee"><div class="prof-info">
+      <div class="team-card prof-card" style="margin-bottom: 50px;"><img class="avatar circle" src="/assets/img/members/hmlee_pic.jpg" alt="Hyeonmin Lee"><div class="prof-info">
           <p class="name">
             Hyeonmin Lee
           </p><div class="muted" style="margin-top:0.25rem;">Assistant Professor</div><div class="icon-row"><a class="icon-link" href="https://hyeonmin-lee.github.io" target="_blank" rel="noopener">
